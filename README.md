@@ -7,13 +7,12 @@ This portfolio serves as a central place for recruiters and collaborators to lea
 
 ## 🔗 Live Demo
 👉 [Visit Portfolio Website](https://github.com/Alok-raj001/frontend-portfolio/)  
-*(Replace `#` with your deployed link – GitHub Pages / Netlify / Vercel)*
+
 
 ---
 
 ## 📸 Preview
 ![Portfolio Preview](./assets/preview.png)
-*(Optional: add a screenshot of your website)*
 
 ---
 
