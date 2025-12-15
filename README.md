@@ -110,6 +110,33 @@ Provides easy ways to connect with me:
 
 ---
 
+📌 Future Enhancements
+
+Dark / Light mode toggle
+
+Backend integration for contact form
+
+Dynamic blog using CMS or API
+
+SEO optimization
+
+Performance improvements
+
+----
+🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome.
+Feel free to fork the repository and submit a pull request.
+
+---
+⭐ Acknowledgements
+
+Inspired by modern portfolio UI trends
+
+Icons & UI patterns from open-source resources
+--
+⭐ If you like this project, don’t forget to give it a star!
+
 ## 📁 Project Structure
 
 ```bash
@@ -133,4 +160,6 @@ frontend-portfolio/
 ├── README.md
 ├── package.json
 └── vite.config.js / webpack.config.js
+
+
 
